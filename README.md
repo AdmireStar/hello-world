@@ -1,3 +1,3 @@
 # hello-world
-Just for starting
+Just for starting.
 Hello, world!
